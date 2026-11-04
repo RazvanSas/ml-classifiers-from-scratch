@@ -6,7 +6,7 @@ Five classification algorithms implemented directly in Python and NumPy to explo
 
 | Algorithm | Core method | Source | Detailed README |
 | --- | --- | --- | --- |
-| Logistic regression | Sigmoid and batch gradient descent | [Code](logistic_regression.py) | [README](logistic-regression/README.md) |
+| Logistic regression | Sigmoid and batch gradient descent | [Code](logistic-regression/logistic_regression.py) | [README](logistic-regression/README.md) |
 | k-nearest neighbours | Euclidean distance, heap and majority vote | [Code](KNearest_Classifier.py) | [README](docs/knn.md) |
 | Gaussian Naive Bayes | Class priors and Gaussian log-likelihoods | [Code](gaussian_NB.py) | [README](docs/gaussian-naive-bayes.md) |
 | Decision tree | Recursive splits minimizing weighted entropy | [Code](decision_tree.py) | [README](docs/decision-tree.md) |
