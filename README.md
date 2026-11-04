@@ -12,5 +12,5 @@ Five classification algorithms implemented directly in Python and NumPy to explo
 | Decision tree | Recursive splits minimizing weighted entropy | [Code](decision_tree.py) | [README](docs/decision-tree.md) |
 | Linear soft-margin SVM | Lagrangian dual formulation, SMO and KKT checks | [Code](SVM.py) | [README](docs/svm.md) |
 
-repositories; they are not duplicated here.
+
 
